@@ -8,13 +8,13 @@
   </a>
 </p>
 
-- 👀 I’m interested in Software Development Life Cycle, Data Science and Artificial Intelligence
+- 🏄🏽‍♀️ I’m interested in Software Development Life Cycle, Data Science and Artificial Intelligence
   
-- 🌱 I’m currently learning Swift and Flutter and many tools for data Analysis and visualization.
+- 📍 I’m currently learning Swift and Flutter and many tools for data Analysis and visualization.
   
-- 💞️ I’m looking to collaborate on creative projects.
+- 🗣️ I’m looking to collaborate on creative projects.
   
-- 📫 How to reach me: NouvButti@gmail.com
+- 📩 You Can reach me at: NouvButti@gmail.com
 
 <h3 align="left">Languages & Tools:</h3>
 <p align="left"> 
