@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=NouvBaLQahtani&label=Profile%20views&color=0e75b6&style=flat" alt="NouvBaLQahtani" /> </p>
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/anwar-alshamrani-606702243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app](https://www.linkedin.com/in/nouv-b-al-qahtani-795b51216?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzUOoo2S9Q%2BOIuwg4WxQoKA%3D%3D)" target="_blank">
+  <a href="https://www.linkedin.com/in/nouv-b-al-qahtani-795b51216?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Nouv B. Al-Qahtani" />
   </a>
 </p>
@@ -36,5 +36,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="[https://www.linkedin.com/in/anwar-alshamrani-606702243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app](https://www.linkedin.com/in/nouv-b-al-qahtani-795b51216?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzUOoo2S9Q%2BOIuwg4WxQoKA%3D%3D)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nouv B. AL-Qahtani" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/nouv-b-al-qahtani-795b51216?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nouv B. AL-Qahtani" height="30" width="40" /></a>
 </p>
